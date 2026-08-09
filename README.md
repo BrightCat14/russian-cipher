@@ -6,7 +6,7 @@
 
 ```bash
 python3 cipher.py encode "Съешь же ещё этих мягких французских булок, да выпей чаю"
-python3 cipher.py decode "!(:?% *: :—{ "><& ¤;^¢<& ΦΔ§£∇≈¶Ω¢<& ©≈¦€¢~ ®§ ¥Ξ₽:± Ψ§∑"
+python3 cipher.py decode '!(:?% *: :—{ "><& ¤;^¢<& ΦΔ§£∇≈¶Ω¢<& ©≈¦€¢~ ®§ ¥Ξ₽:± Ψ§∑'
 python3 cipher.py table   # показать таблицу замен
 python3 cipher.py check   # самопроверка round-trip
 python3 cipher.py         # интерактивный режим
